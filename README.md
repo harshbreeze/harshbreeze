@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Goswami</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Building+Scalable+Applications;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+Scalable+Applications;Always+Learning+Something+New" />
 </p>
 
 I'm a Computer Science graduate with a Diploma in Electrical Engineering, passionate about backend development and building secure, scalable applications. I primarily work with **Java** and **Spring Boot**, developing RESTful APIs and production-ready backend systems. I'm continuously expanding my knowledge of **Microservices**, **System Design**, **Cloud Technologies**, and **DevOps** while building real-world projects.
